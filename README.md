@@ -11,3 +11,6 @@ And my board is Spartan6 N3, if your board is different, you need to change the 
 If the maps can be randomized, the better!
 And, I'm almost running out the recourses on the board.
 
+##Acknowledge
+Most of the current pictures I use are from sleroux on github.
+
