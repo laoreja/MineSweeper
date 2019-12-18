@@ -1,4 +1,4 @@
-#MineSweeper on FPGA with VGA
+# MineSweeper on FPGA with VGA
 
 A salute to the classic mine sweeper game on the Xilinx Spartan-6 FPGA board with VGA output in Verilog HDL.
 
